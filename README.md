@@ -4,24 +4,19 @@
 <!-- Seção do Nome Centralizada com Destaque -->
 <h1 align="center">🚀✨ hello, i am <strong>Pedro Evangelista</strong> ✨🚀</h1>
 
----
-
-<!-- Tecnologias que Domino -->
-## 🛠️ Tecnologias que Domino
-- **C# / .NET**
-- **Segurança Cibernética**
-- **Redes de Computadores**
-- **Docker & Kubernetes**
-- **Ferramentas como Metasploit, Wireshark e Nmap**
-- **Linux**
+<!-- Informações em lista -->
+<ul>
+  <li>a cybersecurity student</li>
+  <li>19 anos</li>
+  <li>Técnico em Informática</li>
+  <li>Futuro <strong>Técnico em Cybersecurity</strong></li>
+</ul>
 
 ---
 
 <!-- Principais Projetos com links -->
 ## 🔥 Principais Projetos
-- [🚀 Projeto 1: Cyber Defense Tool](https://github.com/seuusuario/projeto1)
-- [🔍 Projeto 2: Network Monitor](https://github.com/seuusuario/projeto2)
-- [🔐 Projeto 3: Secure API](https://github.com/seuusuario/projeto3)
+- [Purple Shiva Tools](https://github.com/PurpleShivaTeam)
 
 ---
 
