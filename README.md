@@ -20,7 +20,6 @@
 <h2 style="color:#00FF7F; text-align: center;">📈 GitHub Stats</h2>
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrosilvaevangelista&show_icons=true&theme=dark&title_color=00FF7F&text_color=00FF7F&icon_color=00FF7F" alt="GitHub Stats" style="min-width: 300px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilvaevangelista&layout=compact&theme=dark&title_color=00FF7F&text_color=00FF7F&icon_color=00FF7F" alt="Top Languages" style="min-width: 300px; border-radius: 10px;">
 </div>
 
 <!-- Featured Projects -->
@@ -28,7 +27,7 @@
 <div style="background-color: #1e1e1e; padding: 15px; border-radius: 10px; margin: 0 auto 20px auto; max-width: 600px;">
   <ul style="color: #00FF7F; margin: 0; padding: 0; list-style: none;">
     <li>
-      <a href="https://github.com/PurpleShivaTeam" style="color: #00FF7F; text-decoration: none;">Purple Shiva Tools</a> - A cybersecurity toolkit repository.
+      <a href="https://github.com/PurpleShivaTeam" style="color: #00FF7F; text-decoration: none;">Purple Shiva Tools</a> - A cybersecurity toolkit.
     </li>
   </ul>
 </div>
