@@ -13,11 +13,6 @@
   </ul>
 </div>
 
-<!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrosilvaevangelista&show_icons=true&theme=dark&title_color=00FF7F&text_color=00FF7F&icon_color=00FF7F&hide=contribs&include_all_commits=true" alt="GitHub Stats" style="border-radius: 10px; width: 600px;">
-</div>
-
 <!-- Featured Projects -->
 <h2 style="color:#00FF7F; text-align: center;">🔥 Featured Projects</h2>
 <div style="background-color: #003300; padding: 15px; border-radius: 10px; margin: 0 auto 20px auto; max-width: 600px;">
