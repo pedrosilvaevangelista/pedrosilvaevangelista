@@ -3,18 +3,8 @@
   <h1 style="color:#00FF7F; margin: 0;">🛡️ Hi there, I'm <strong>Pedro Evangelista</strong> </h1>
 </div>
 
-<!-- Core Information -->
-<div style="background-color: #003300; padding: 15px; border-radius: 10px; margin-bottom: 20px; color:#00FF7F; text-align: center;">
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>🔒 Cybersecurity Student</li>
-    <li>🎂 19 years old</li>
-    <li>💻 IT Technician</li>
-    <li>🔮 Future <strong>Cybersecurity Specialist</strong></li>
-  </ul>
-</div>
-
-<!-- Featured Projects -->
-<h2 style="color:#00FF7F; text-align: center;">🔥 Featured Projects</h2>
+<!-- Projects -->
+<h2 style="color:#00FF7F; text-align: center;">Projects</h2>
 <div style="background-color: #003300; padding: 15px; border-radius: 10px; margin: 0 auto 20px auto; max-width: 600px;">
   <ul style="color: #00FF7F; margin: 0; padding: 0; list-style: none;">
     <li>
