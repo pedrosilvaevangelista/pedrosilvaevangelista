@@ -33,6 +33,7 @@ Security specialist focusing on ethical hacking, threat detection, and network d
 - Nessus
 - Python
 - Artificial Intelligence
+- Nmap
 
 ## Courses & Certifications
 
