@@ -38,8 +38,10 @@ Security specialist focusing on ethical hacking, threat detection, and network d
 ## Courses & Certifications
 
 - CyberOps
-- Defesa de rede
-- *More coming soon...*
+- Network Defense
+- Ubuntu Server Administration
+- Information Security Assistant
+- Computer Network Assistant
 
 ## Connect With Me
 
