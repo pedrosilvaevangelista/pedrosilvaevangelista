@@ -47,7 +47,7 @@ Security specialist focusing on ethical hacking, threat detection, and network d
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-006400?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/pedro-henrique-silva-evangelista)
+[![LinkedIn](https://www.linkedin.com/in/pedro-henrique-silva-evangelista/)](www.linkedin.com/in/pedro-henrique-silva-evangelista)
 [![Email](https://img.shields.io/badge/Email-228B22?logo=gmail&logoColor=white&style=flat-square)](mailto:pedrosilvaevangelista2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-2E8B57?logo=github&logoColor=white&style=flat-square)](https://github.com/pedrosilvaevangelista)
   
