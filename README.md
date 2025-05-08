@@ -19,7 +19,7 @@ Security specialist focusing on ethical hacking, threat detection, and network d
 
 ## Projects
 
-- [**Purple Shiva Tools**](https://github.com/PurpleShivaTeam) - A cybersecurity attack emulator
+- [**Purple Shiva Tools**](https://github.com/PurpleShivaTeam) - A cybersecurity attack emulator (in development)
 - [**Dom cybersecurity-blog**](https://dom-cybersegurityblog.netlify.app/) - My personal cybersecurity blog
 
 ## Skills
