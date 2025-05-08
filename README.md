@@ -46,12 +46,21 @@ Security specialist focusing on ethical hacking, threat detection, and network d
 ## Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://www.linkedin.com/in/pedro-henrique-silva-evangelista/)](https://www.linkedin.com/in/pedro-henrique-silva-evangelista/)
-[![Email](https://img.shields.io/badge/Email-228B22?logo=gmail&logoColor=white&style=flat-square)](mailto:pedrosilvaevangelista2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2E8B57?logo=github&logoColor=white&style=flat-square)](https://github.com/pedrosilvaevangelista)
-  
+
+  <a href="https://www.linkedin.com/in/pedro-henrique-silva-evangelista/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2E8B57?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:pedrosilvaevangelista2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-228B22?logo=gmail&logoColor=white&style=flat-square" alt="Email">
+  </a>
+
+  <a href="https://github.com/pedrosilvaevangelista" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-2E8B57?logo=github&logoColor=white&style=flat-square" alt="GitHub">
+  </a>
+
 </div>
+
 
 ---
 
