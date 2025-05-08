@@ -1,4 +1,4 @@
-# DOM | Cybersecurity Specialist
+# DOM | Cybersecurity
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 
 ## About Me
 
-Security specialist focusing on ethical hacking, threat detection, and network defense.
+Security specialist focusing on threat detection, and network defense.
 
 ## Projects
 
