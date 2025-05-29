@@ -20,14 +20,12 @@ Security specialist focusing on threat detection, and network defense.
 ## Projects
 
 - [**Purple Shiva Tools**](https://github.com/PurpleShivaTeam) - A cybersecurity attack emulator (in development)
-- [**Dom cybersecurity-blog**](https://dom-cybersegurityblog.netlify.app/) - My personal cybersecurity blog
 
 ## Skills
 
 - Linux
 - Windows
 - Endian Firewall
-- Mikrotick
 - Atomic Red Team
 - Metasploit
 - Nessus
