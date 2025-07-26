@@ -26,26 +26,6 @@ Security specialist focusing on threat detection, and network defense.
 - Hardening Script Linux (in development)
 - Phishing Simulator For Training (in development)
 
-## Skills
-
-- Linux
-- Windows
-- Endian Firewall
-- Atomic Red Team
-- Metasploit
-- Nessus
-- Python
-- Artificial Intelligence
-- Nmap
-
-## Courses & Certifications
-
-- CyberOps
-- Network Defense
-- Ubuntu Server Administration
-- Information Security Assistant
-- Computer Network Assistant
-
 ## Connect With Me
 
 <div align="center">
