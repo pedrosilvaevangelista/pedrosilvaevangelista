@@ -57,13 +57,12 @@ Security specialist focusing on threat detection, and network defense.
 
 </div>
 
-
 ---
 
 <div align="center">
   
-> "Security is a process, not a product."
+> "Hackers are not criminals, they are problem solvers."
 >
-> — Bruce Schneier
+>  Kevin Mitnick
   
 </div>
