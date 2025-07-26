@@ -28,18 +28,18 @@ Security specialist focusing on threat detection, and network defense.
 
 ## Connect With Me
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center; font-family: Arial, sans-serif;">
 
-  <a href="https://www.linkedin.com/in/pedro-henrique-silva-evangelista/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2E8B57?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/pedro-henrique-silva-evangelista/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8C00?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
 
-  <a href="mailto:pedrosilvaevangelista2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-228B22?logo=gmail&logoColor=white&style=flat-square" alt="Email">
+  <a href="mailto:pedrosilvaevangelista2005@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-FFA500?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
 
-  <a href="https://github.com/pedrosilvaevangelista" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-2E8B57?logo=github&logoColor=white&style=flat-square" alt="GitHub">
+  <a href="https://github.com/pedrosilvaevangelista" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-FF7F50?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 
 </div>
