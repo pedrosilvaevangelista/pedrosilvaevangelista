@@ -15,13 +15,13 @@
 
 Security specialist focusing on threat detection, and network defense.
 
-## Projects
+## Projects 
 
-- [**Purple Shiva Tools**](https://github.com/PurpleShivaTeam) - A cybersecurity attack emulator (in development)
+- [**Purple Shiva Tools**](https://github.com/PurpleShivaTeam) - A cybersecurity attack emulator
 - My portfolio Site(in development)
 - Soc OpenSource (in development)
 - Purple Shiva Team website (in development)
-- Vulnerable WebService (in development)
+- [**Vulnerable Web Service**](https://github.com/pedrosilvaevangelista/vulnerable-webservice) - A vulnerable web service for educational purposes
 - Hardening Script Windows (in development)
 - Hardening Script Linux (in development)
 - Phishing Simulator For Training (in development)
