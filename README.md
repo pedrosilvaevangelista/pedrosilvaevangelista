@@ -30,7 +30,7 @@ Security specialist focusing on threat detection, and network defense.
 
 <div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center; font-family: Arial, sans-serif;">
 
-  <a href="https://www.linkedin.com/in/pedro-henrique-silva-evangelista/" target="_blank" style="text-decoration: none;">
+  <a href="www.linkedin.com/in/pedro-henrique-silva-evangelista2005" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-FF8C00?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
 
