@@ -22,7 +22,7 @@ Security specialist focusing on threat detection, and network defense.
 - [**Soc Open Source**](https://github.com/pedrosilvaevangelista/Soc-Opensource) - SOC and Active Defense Open Source
 - Purple Shiva Team website (in development)
 - [**Vulnerable Web Service**](https://github.com/pedrosilvaevangelista/vulnerable-webservice) - A vulnerable web service for educational purposes
-- Hardening Script Windows (in development)
+- [**Hardening Script Windows**](https://github.com/pedrosilvaevangelista/hardening_script-windows10) - A Hardening script for Windows Workstations
 - [**Hardening Script Linux**](https://github.com/pedrosilvaevangelista/hardening_script-linux) - A Hardening script for linux
 - Phishing Simulator For Training (in development)
 
