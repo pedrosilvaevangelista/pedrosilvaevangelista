@@ -13,7 +13,7 @@
 
 ## About Me
 
-Security specialist focusing on threat detection, and network defense.
+Security specialist focusing on threat detection, automation, and network defense.
 
 ## Projects 
 
