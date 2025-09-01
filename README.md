@@ -37,6 +37,11 @@ Security specialist focusing on threat detection, automation, and network defens
     <img src="https://img.shields.io/badge/GitHub-FF7F50?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 
+<a href="https://pedroevangelista.netlify.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/My%20Website-FF7F50?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="My Website">
+</a>
+
+
 </div>
 
 ---
