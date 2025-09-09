@@ -17,7 +17,7 @@ Security specialist focusing on threat detection, automation, and network defens
 
 ## Projects 
 
-- [**Purple Shiva Tools**](https://github.com/PurpleShivaTeam) - A cybersecurity attack emulator
+- [**Faculdade Cibersegurança Brasil**](https://github.com/PurpleShivaTeam) - A Open Source Cibersecurity Course
 - [**Soc Open Source**](https://github.com/pedrosilvaevangelista/Soc-Opensource) - SOC and Active Defense Open Source
 - [**Vulnerable Web Service**](https://github.com/pedrosilvaevangelista/vulnerable-webservice) - A vulnerable web service for educational purposes
 - [**Hardening Script Windows**](https://github.com/pedrosilvaevangelista/hardening_script-windows10) - A Hardening script for Windows Workstations
