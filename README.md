@@ -22,7 +22,7 @@ Security specialist focusing on threat detection, automation, and network defens
 - [**Vulnerable Web Service**](https://github.com/pedrosilvaevangelista/vulnerable-webservice) - A vulnerable web service for educational purposes
 - [**Hardening Script Windows**](https://github.com/pedrosilvaevangelista/hardening_script-windows10) - A Hardening script for Windows Workstations
 - [**Hardening Script Linux**](https://github.com/pedrosilvaevangelista/hardening_script-linux) - A Hardening script for linux
-- [**Easy-Honeypot**](https://github.com/pedrosilvaevangelista/easy-honeypot) - A Simple Honeypot
+- [**Easy-Honeypot**](https://github.com/pedrosilvaevangelista/easy-honeypot) - A Simple SSH Honeypot
 
 
 ## Connect With Me
