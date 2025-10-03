@@ -44,12 +44,4 @@ Security specialist focusing on threat detection, automation, and network defens
 
 </div>
 
----
 
-<div align="center">
-  
-> "Hackers are not criminals, they are problem solvers."
->
->  Kevin Mitnick
-  
-</div>
